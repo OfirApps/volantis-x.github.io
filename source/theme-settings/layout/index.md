@@ -58,7 +58,7 @@ article:
       # Copyright notice component (for layout: post/docs)
       copyright:
         enable: true
-        permalink:'הכתובת הקבועה של הפוסט הזה:'
+        permalink: 'הכתובת הקבועה של הפוסט הזה: '
         content:
           -'תוכן הבלוג עוקב אחר ייחוס-שימוש לא מסחרי-שיתוף באותו אופן 4.0 הבינלאומי (CC BY-NC-SA 4.0)'
           -permalink
