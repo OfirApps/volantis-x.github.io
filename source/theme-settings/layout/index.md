@@ -48,19 +48,19 @@ article:
       # Related articles, plug-ins need to be installed (for layout: post)
       # npm i hexo-related-popular-posts
       related_posts:
-        enable: false
-        title: Related articles
+        enable: true
+        title: מאמרים פופולרים בנושא זה:
         icon: fas fa-bookmark
         max_count: 5
         # Set to empty to not use the article header
-        placeholder_img: https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/046.jpg
+        # placeholder_img: https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/046.jpg
       # ----------------
       # Copyright notice component (for layout: post/docs)
       copyright:
         enable: true
-        permalink:'The permanent link to this article is:'
+        permalink:'הכתובת הקבועה של הפוסט הזה:'
         content:
-          -'The content of the blog follows the attribution-non-commercial use-share in the same way 4.0 International (CC BY-NC-SA 4.0) agreement'
+          -'תוכן הבלוג עוקב אחר ייחוס-שימוש לא מסחרי-שיתוף באותו אופן 4.0 הבינלאומי (CC BY-NC-SA 4.0)'
           -permalink
       # ----------------
       # Reward component (for layout: post/docs)

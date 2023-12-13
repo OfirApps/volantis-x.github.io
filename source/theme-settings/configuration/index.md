@@ -28,7 +28,7 @@ When you need to modify something, such as the navigation bar menu, then you nee
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+    img: https://github.com/OfirApps/files/blob/main/favicon/favicon-150x150.png
     icon:
     title:
   menu:

@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: Set the website navigation bar
+title: אזור גלישה
 group: docs-volantis-latest
 order: 303
 short_title: 3-3 Set the website navigation bar
