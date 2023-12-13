@@ -53,9 +53,9 @@ navbar:
 cover:
   # height_scheme: full # full, half
   layout_scheme: dock # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
-  title: 'Volantis'
-  subtitle: 'Test Site For Development'
-  background: 'volantis-static/media/wallpaper/minimalist/2020/003.jpg'
+  title: 'כל ה<b>טופ</b>'
+  subtitle: 'טיולים טכנולוגיה ריכולים ועוד!'
+  background: 'https://cdn.jsdelivr.net/gh/OfirApps/files@main/b1a676cd0ae04447ae249a4ea33f72b3.png'
   features:
     - name: Blogs
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg
