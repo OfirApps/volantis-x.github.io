@@ -57,21 +57,21 @@ cover:
   subtitle: 'טיולים טכנולוגיה ריכולים ועוד!'
   background: 'https://cdn.jsdelivr.net/gh/OfirApps/files@main/b1a676cd0ae04447ae249a4ea33f72b3-transformed.webp'
   features:
-    - name: Blogs
-      img: volantis-static/media/twemoji/assets/svg/1f4f0.svg
+    - name: טיולים
+      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2708.svg
       url: /
-    - name: Docs
-      img: volantis-static/media/twemoji/assets/svg/1f516.svg
+    - name: טכנולוגיה
+      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f1.svg
       url: /getting-started/
       target: _self
-    - name: Example
-      img: volantis-static/media/twemoji/assets/svg/1f396.svg
-      url: /examples/
-    - name: Help
-      img: volantis-static/media/twemoji/assets/svg/1f4ac.svg
+    - name: האחרונים
+      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b07.svg
+      url: '#'
+    - name: חדשות
+      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f0.svg
       url: faqs/
-    - name: Community
-      img: volantis-static/media/twemoji/assets/svg/1f9e9.svg
+    - name: רכילות
+      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b50.svg
       url: /contributors/
 
 
@@ -99,28 +99,28 @@ article:
         max_count: 5
       copyright:
         enable: true
-        permalink: 'The permanent link to this article is:'
+        permalink: 'הכתובת הקבועה של הפוסט הזה:'
         content:
-          - 'The content of the blog follows the attribution-non-commercial use-share in the same way 4.0 International (CC BY-NC-SA 4.0) agreement'
+          - 'תוכן הבלוג עוקב אחר ייחוס-שימוש לא מסחרי-שיתוף באותו אופן 4.0 הבינלאומי (CC BY-NC-SA 4.0)'
           - permalink
     meta_library:
       author:
-        avatar: volantis-static/media/org.volantis/blog/favicon/apple-touch-icon.png
-        name: Volantis Team
+        avatar: https://github.com/OfirApps/files/blob/9caf6c67405c13bd622b3e9065ff2ecd53fbdad5/favicon/favicon-150x150.png
+        name: אופיר
         url: https://github.com/volantis-x/
       date:
         icon: fa-solid fa-calendar-alt
-        title: 'posted on:'
+        title: 'פורסם בתאריך:'
         format: 'll'
       updated:
-        title: 'The document on this page was last updated at:'
+        title: 'עודכן לאחרונה:'
       counter:
         icon: fa-solid fa-eye
-        unit: 'views'
+        unit: 'צפיות'
 
 comments:
-  title: <i class='fa-solid fa-comments'></i> User Exchange Area
-  subtitle: This is only for communication between users. If you have any questions, please go to GitHub to submit an issue. Asking questions in the comment area will not receive any response from the developer!
+  title: <i class='fa-solid fa-comments'></i> תגובות
+  subtitle: שאלות? דעות? פה זה המקום לכתוב
   service: disqus
   disqus:
     shortname: kolhatop
@@ -263,7 +263,7 @@ sidebar:
 
 site_footer:
   layout: [social, copyright]
-  copyright: '[Copyright © 2017-2021 Volantis Team](https://github.com/volantis-x/)'
+  copyright: '[קבוצת כל הטופ - ©2023](https://kolha.top/about)'
   social:
     - img: volantis-static/media/org.volantis/icon/1322024-social-media/020-rss.svg
       url: atom.xml
@@ -299,78 +299,7 @@ plugins:
     position: fixed
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
       # 尺寸一致图片测试
-      - volantis-static/media/wallpaper/minimalist/2020/001.webp
-      - volantis-static/media/wallpaper/minimalist/2020/002.webp
-      - volantis-static/media/wallpaper/minimalist/2020/003.webp
-      - volantis-static/media/wallpaper/minimalist/2020/004.webp
-      - volantis-static/media/wallpaper/minimalist/2020/005.webp
-      - volantis-static/media/wallpaper/minimalist/2020/006.webp
-      - volantis-static/media/wallpaper/minimalist/2020/007.webp
-      - volantis-static/media/wallpaper/minimalist/2020/008.webp
-      - volantis-static/media/wallpaper/minimalist/2020/009.webp
-      - volantis-static/media/wallpaper/minimalist/2020/010.webp
-      - volantis-static/media/wallpaper/minimalist/2020/011.webp
-      - volantis-static/media/wallpaper/minimalist/2020/012.webp
-      - volantis-static/media/wallpaper/minimalist/2020/013.webp
-      - volantis-static/media/wallpaper/minimalist/2020/014.webp
-      - volantis-static/media/wallpaper/minimalist/2020/015.webp
-      - volantis-static/media/wallpaper/minimalist/2020/016.webp
-      - volantis-static/media/wallpaper/minimalist/2020/017.webp
-      - volantis-static/media/wallpaper/minimalist/2020/018.webp
-      - volantis-static/media/wallpaper/minimalist/2020/019.webp
-      - volantis-static/media/wallpaper/minimalist/2020/020.webp
-      - volantis-static/media/wallpaper/minimalist/2020/021.webp
-      - volantis-static/media/wallpaper/minimalist/2020/022.webp
-      - volantis-static/media/wallpaper/minimalist/2020/023.webp
-      - volantis-static/media/wallpaper/minimalist/2020/024.webp
-      - volantis-static/media/wallpaper/minimalist/2020/025.webp
-      - volantis-static/media/wallpaper/minimalist/2020/026.webp
-      - volantis-static/media/wallpaper/minimalist/2020/027.webp
-      - volantis-static/media/wallpaper/minimalist/2020/028.webp
-      - volantis-static/media/wallpaper/minimalist/2020/029.webp
-      - volantis-static/media/wallpaper/minimalist/2020/030.webp
-      - volantis-static/media/wallpaper/minimalist/2020/031.webp
-      - volantis-static/media/wallpaper/minimalist/2020/032.webp
-      - volantis-static/media/wallpaper/minimalist/2020/033.webp
-      - volantis-static/media/wallpaper/minimalist/2020/034.webp
-      - volantis-static/media/wallpaper/minimalist/2020/035.webp
-      - volantis-static/media/wallpaper/minimalist/2020/036.webp
-      - volantis-static/media/wallpaper/minimalist/2020/037.webp
-      - volantis-static/media/wallpaper/minimalist/2020/038.webp
-      - volantis-static/media/wallpaper/minimalist/2020/039.webp
-      - volantis-static/media/wallpaper/minimalist/2020/040.webp
-      - volantis-static/media/wallpaper/minimalist/2020/041.webp
-      - volantis-static/media/wallpaper/minimalist/2020/042.webp
-      - volantis-static/media/wallpaper/minimalist/2020/043.webp
-      - volantis-static/media/wallpaper/minimalist/2020/044.webp
-      - volantis-static/media/wallpaper/minimalist/2020/045.webp
-      - volantis-static/media/wallpaper/minimalist/2020/046.webp
-      - volantis-static/media/wallpaper/minimalist/2020/047.webp
-      - volantis-static/media/wallpaper/minimalist/2020/048.webp
-      - volantis-static/media/wallpaper/minimalist/2020/049.webp
-      - volantis-static/media/wallpaper/minimalist/2020/050.webp
-      - volantis-static/media/wallpaper/minimalist/2020/051.webp
-      - volantis-static/media/wallpaper/minimalist/2020/052.webp
-      - volantis-static/media/wallpaper/minimalist/2020/053.webp
-      - volantis-static/media/wallpaper/minimalist/2020/054.webp
-      - volantis-static/media/wallpaper/minimalist/2020/055.webp
-      - volantis-static/media/wallpaper/minimalist/2020/056.webp
-      # 尺寸不一致图片测试
-      - volantis-static/media/wallpaper/md/001.webp
-      - volantis-static/media/wallpaper/md/002.webp
-      - volantis-static/media/wallpaper/md/003.webp
-      - volantis-static/media/wallpaper/md/004.webp
-      - volantis-static/media/wallpaper/md/005.webp
-      - volantis-static/media/wallpaper/md/006.webp
-      - volantis-static/media/wallpaper/md/007.webp
-      - volantis-static/media/wallpaper/md/008.webp
-      - volantis-static/media/wallpaper/md/009.webp
-      - volantis-static/media/wallpaper/md/010.webp
-      - volantis-static/media/wallpaper/md/011.webp
-      - volantis-static/media/wallpaper/md/012.webp
-      - volantis-static/media/wallpaper/md/013.webp
-      - volantis-static/media/wallpaper/md/014.webp
-      - volantis-static/media/wallpaper/md/015.webp
+      - https://example.com/webp.webp #url
 
   aplayer:
     enable: false
