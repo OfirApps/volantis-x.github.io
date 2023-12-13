@@ -123,7 +123,7 @@ comments:
   subtitle: This is only for communication between users. If you have any questions, please go to GitHub to submit an issue. Asking questions in the comment area will not receive any response from the developer!
   service: disqus
   disqus:
-    shortname: volantis
+    shortname: kolhatop
     path: /
   valine:
     appId: FIKAgh6n0pUM08JXxhJHChVQ-MdYXbMMI
@@ -197,16 +197,16 @@ sidebar:
         title: Document navigation v5.0
 
     # qrcode widget
-    qrcode:
-      class: qrcode
-      display: [desktop] # [desktop, mobile]
-      header:
-        icon: fa-solid fa-mobile
-        title: Mobile watch
-      height: #64px  # Automatic height if not set
-      fancybox: #true
-      images:
-        - volantis-static/media/org.volantis/blog/qrcode/github@volantis.png
+    # qrcode:
+    #   class: qrcode
+    #   display: [desktop] # [desktop, mobile]
+    #   header:
+    #     icon: fa-solid fa-mobile
+    #     title: Mobile watch
+    #   height: #64px  # Automatic height if not set
+    #   fancybox: #true
+    #   images:
+    #     - volantis-static/media/org.volantis/blog/qrcode/github@volantis.png
 
     help:
       class: page
