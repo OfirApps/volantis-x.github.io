@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Volantis
+title: כל הטופ
 subtitle: ''
-description: 'Volantis is a feature-rich and highly modular Hexo blog theme. Thanks to its powerful modularity, you can easily build a minimalist style blog, or you can build a large-scale comprehensive blog with multi-person collaboration and document modules based on the official website.'
-keywords: 'Volantis,Hexo,Hexo主题,Blog,博客'
-author: 'Volantis Team'
-language: en
+description: "כל הטופ הינו בלוג המכיל המלצות לטיולים, גאדג'טים, ריכוליות ועוד!"
+keywords: 'רכילות, ריכולים, סלבריטים, טיולים, יוון, דרום אמריקה, טיול אחרי צבע, טכנולוגיה, חרבות ברזל, ריכול, טיול, אהבה, הלם'
+author: 'קבוצת כל הטופ'
+language: he
 timezone: ''
 avatar: https://unpkg.com/volantis-static@0.0.1649552113628/media/org.volantis/blog/Logo-NavBar@3x.png
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://volantis-x-github-io.vercel.app/
+url: https://kolha.top/
 root: /
 permalink: :title/
 permalink_defaults:
