@@ -52,7 +52,7 @@ navbar:
 
 cover:
   # height_scheme: full # full, half
-  layout_scheme: search # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
+  layout_scheme: dock # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
   title: 'Volantis'
   subtitle: 'Test Site For Development'
   background: 'volantis-static/media/wallpaper/minimalist/2020/003.jpg'
@@ -138,9 +138,6 @@ sidebar:
   for_page: [post, category, tagcloud, music]
   for_post: [music, toc]
   widget_library:
-    music:
-      class: music
-      display: [desktop, mobile] # [desktop, mobile]
     toc:
       class: toc
       display: [desktop, mobile] # [desktop, mobile]
@@ -265,7 +262,7 @@ sidebar:
 
 
 site_footer:
-  layout: [aplayer, social, copyright]
+  layout: [social, copyright]
   copyright: '[Copyright © 2017-2021 Volantis Team](https://github.com/volantis-x/)'
   social:
     - img: volantis-static/media/org.volantis/icon/1322024-social-media/020-rss.svg
@@ -298,7 +295,7 @@ plugins:
   fontawesome: volantis-static/libs/@fortawesome/fontawesome-pro/css/all.min.css
   code_highlight: prismjs # highlightjs or prismjs
   parallax:
-    enable: true
+    enable: false
     position: fixed
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
       # 尺寸一致图片测试
@@ -376,8 +373,8 @@ plugins:
       - volantis-static/media/wallpaper/md/015.webp
 
   aplayer:
-    enable: true
-    autoplay: true
+    enable: false
+    autoplay: false
     volume: 0.4
     order: random
     # id: 4917530132 # vol red
