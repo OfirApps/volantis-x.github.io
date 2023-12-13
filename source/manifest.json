@@ -2,11 +2,11 @@
   "short_name": "כל הטופ",
   "name": "כל הטופ",
   "icons": [{
-    "src": "https://cdn.jsdelivr.net/gh/OfirApps/files@a6f1ceb0bdceca904fbcc8b37475d1a13a1c82a5/favicon/android-chrome-512x512.png",
+    "src": "https://cdn.jsdelivr.net/gh/OfirApps/files@main/favicon/android-chrome-512x512.png",
     "type": "image/png",
     "sizes": "512x512"
   }, {
-    "src": "https://cdn.jsdelivr.net/gh/OfirApps/files@a6f1ceb0bdceca904fbcc8b37475d1a13a1c82a5/favicon/android-chrome-192x192.png",
+    "src": "https://cdn.jsdelivr.net/gh/OfirApps/files@main/favicon/android-chrome-192x192.png",
     "type": "image/png",
     "sizes": "192x192"
   }],
