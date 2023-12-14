@@ -1,5 +1,5 @@
 ---
-title: 所有标签
+title: תגים
 layout: tag
 cover: true
 sidebar: []

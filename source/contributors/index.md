@@ -3,11 +3,11 @@ layout: page
 title: Join the community and team
 cover: true
 sidebar: []
-music:
-  server: netease # netease, tencent, kugou, xiami, baidu
-  type: song # song, playlist, album, search, artist
-  id: 41630480 # song id / playlist id / album id / search keyword
-  autoplay: true
+# music:
+#   server: netease # netease, tencent, kugou, xiami, baidu
+#   type: song # song, playlist, album, search, artist
+#   id: 41630480 # song id / playlist id / album id / search keyword
+#   autoplay: false
 ---
 
 The more people participating in an open source project, the more vital it is. I hope that interested partners can join the team~
