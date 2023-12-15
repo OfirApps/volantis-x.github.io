@@ -5,12 +5,13 @@ navbar:
   search: חיפוש...
   logo: # choose [img] or [icon + title]
     title: כל הטופ
-    icon: fa-duotone fa-hundred
+    icon: fa-duotone fa-hundred-points
+    img: #
     #img: https://cdn.jsdelivr.net/gh/OfirApps/files@main/favicon/favicon-150x150.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
   menu:
     - name: טיולים
       icon: fa-duotone fa-plane faa-tada
-      url: /getting-started/
+      url: trips/
       target: _self
 
     - name: טכנולוגיה
