@@ -10,9 +10,9 @@ post:
   wordcount: '%s מילים'
   duration: '%s דקות'
   comments: תגובות
-  comments_load: טען %s
-  comments_check: בודק אם %s זמין...
-  comments_placeholder: לא הצלחנו לטעון את %s, בבקשה ודאו שאתם מחוברים לרשת.
+  comments_load: לחצו עליי כדי לפתוח את התגובות
+  comments_check: פותח את התגובות
+  comments_placeholder: לא הצלחנו לטעון את התגובות, בבקשה ודאו שאתם מחוברים לרשת.
   copy_button: העתק
   copy_success: הועתק
   copy_failure: העתקה נכשלה

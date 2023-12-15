@@ -2,6 +2,7 @@
 cdn:
   enable: false
 navbar:
+  search: חיפוש...
   logo: # choose [img] or [icon + title]
     img: https://cdn.jsdelivr.net/gh/OfirApps/files@main/favicon/favicon-150x150.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
   menu:
