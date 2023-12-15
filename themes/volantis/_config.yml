@@ -540,7 +540,7 @@ sidebar:
       display: [desktop] # [desktop, mobile]
       header:
         icon: fa-solid fa-folder-open
-        title: 文章分类
+        title: קטגוריות
         url: /blog/categories/
     # ---------------------------------------
     # tagcloud widget
@@ -549,7 +549,7 @@ sidebar:
       display: [desktop, mobile] # [desktop, mobile]
       header:
         icon: fa-solid fa-tags
-        title: 热门标签
+        title: תגים
         url: /blog/tags/
       min_font: 14
       max_font: 24
