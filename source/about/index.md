@@ -1,9 +1,7 @@
 ---
 seo_title: מידע על האתר
 short_title: עלינו
-order: 1
 sidebar: [toc]
-group: about
 description: Volantis is a feature-rich and highly modular Hexo blog theme. Thanks to its powerful modularity, you can easily build a minimalist style blog, or you can build a large-scale comprehensive blog with multi-person collaboration and document modules based on the official website.
 #hidden: true
 ---
