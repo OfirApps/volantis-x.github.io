@@ -54,23 +54,28 @@ cover:
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2708.svg
       url: /trips/
       alt: "מטוס"
+      width: 44px
     - name: טכנולוגיה
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f1.svg
       url: /getting-started/
       target: /tech/
       alt: "טלפון סלולרי"
+      width: 44px
     - name: <b>המשך</b>
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b07.svg
       url: 'javascript:scrolltobodyMainPage()'
       alt: "חץ המופנה כלפי מטה"
+      width: 44px
     - name: חדשות
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f0.svg
       url: /news
       alt: "עיתון"
+      width: 44px
     - name: רכילות
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b50.svg
       url: /gossip/
       alt: "כוכב"
+      width: 44px
 
 
 article:

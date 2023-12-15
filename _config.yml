@@ -139,7 +139,7 @@ import:
     - <meta name="msapplication-TileImage" content="https://cdn.jsdelivr.net/gh/OfirApps/files@main/favicon/favicon-32x32.png">
     - '<meta name="theme-color" content="#f4f4f4" media="(prefers-color-scheme: light)">'
     - '<meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">'
-    - '<script src="https://cdn.jsdelivr.net/gh/OfirApps/files@658d1aeb5dcb7b25cb0e127d753a134897a76db6/ect.js" defer></script>'
+    - '<script src="https://cdn.jsdelivr.net/gh/OfirApps/files@eb8035b4ae1046dcf7e4714820504d6096905cac/ect.js" defer></script>'
   head_end:
   body_begin:
   # body_end:
