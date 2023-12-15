@@ -1,5 +1,4 @@
 ---
-layout: article
 seo_title: מידע על האתר
 short_title: עלינו
 order: 1
