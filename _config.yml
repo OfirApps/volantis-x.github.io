@@ -188,9 +188,9 @@ nofollow:
   exclude:
   - kolha.top
 
-# criticalcss:
-#   critical:
-#     minify: true
+criticalcss:
+  critical:
+  minify: true
 
 filter_optimize:
   enable: true
