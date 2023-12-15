@@ -20,12 +20,12 @@
     line-height: 48px
     border-radius: 100%
     bottom: $gap*2
-    right: $gap*2
+    left: $gap*2
     transform: translateY(100px) scale(0)
     transform-origin: bottom
     color: var(--color-text)
     @media screen and (max-width: $device-tablet)
-      right: $gap
+      left: $gap
     &.show
       transform: translateY(0) scale(1)
       &.hl
@@ -54,7 +54,7 @@
       padding-left: 0
   &.no_sidebar
     width: 100%
-    padding-right: 0
+    padding-left: 0
     max-width: $layout-width - $sidebar
     @media screen and (min-width: $device-2k)
       max-width: "calc(55vw - %s)" % $sidebar
@@ -136,7 +136,7 @@
       .aplayer,.thumbnail
         trans()
         border-radius: 100%
-        float: right
+        float: left
         margin: 2px
         box-shadow: $boxshadow-card
         &:hover
@@ -183,14 +183,14 @@
           margin: 0 $gap 0 0
           padding: 8px 0  // seo https://web.dev/tap-targets/
           &:last-child
-            margin-right: 0
+            margin-left: 0
           img,i
             display: inline-block
           i
-            margin-right: 4px
+            margin-left: 4px
             border-radius: 0
             &.fa-hashtag
-              margin-right: 2px
+              margin-left: 2px
           p,a
             color: var(--color-meta)
             padding: 3px 0
@@ -201,7 +201,7 @@
             img
               height: 16px
               width: 16px
-              margin-right: 8px // seo https://web.dev/tap-targets/
+              margin-left: 8px // seo https://web.dev/tap-targets/
             p
               margin: 0
               font-weight: normal
@@ -276,7 +276,7 @@
 
 
   @media screen and (max-width:$device-tablet)
-    padding-right: 0
+    padding-left: 0
     @media screen and (max-width: $device-mobile)
       width: 100%
 
@@ -321,7 +321,7 @@ article#comments
       background: $color-button
       color: $color-inner
       padding-left: $gap * 3
-      padding-right: $gap * 3
+      padding-left: $gap * 3
       &:hover
         background: $color-hover
 
