@@ -4,7 +4,9 @@ cdn:
 navbar:
   search: חיפוש...
   logo: # choose [img] or [icon + title]
-    img: https://cdn.jsdelivr.net/gh/OfirApps/files@main/favicon/favicon-150x150.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+    title: כל הטופ
+    icon: fa-duotone fa-hundred
+    #img: https://cdn.jsdelivr.net/gh/OfirApps/files@main/favicon/favicon-150x150.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
   menu:
     - name: טיולים
       icon: fa-duotone fa-plane faa-tada
@@ -13,11 +15,11 @@ navbar:
 
     - name: טכנולוגיה
       icon: fa-duotone fa-mobile faa-tada
-      url: examples/
+      url: tech/
 
     - name: חדשות
       icon: fa-duotone fa-newspaper faa-tada
-      url: faqs/
+      url: news/
 
     # - name: Community
     #   icon: fa-duotone fa-fan fa-spin
@@ -49,20 +51,20 @@ cover:
   features:
     - name: טיולים
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2708.svg
-      url: /
+      url: /trips/
     - name: טכנולוגיה
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f1.svg
       url: /getting-started/
-      target: _self
+      target: /tech/
     - name: <b>המשך</b>
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b07.svg
       url: 'javascript:scrolltobodyMainPage()'
     - name: חדשות
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f0.svg
-      url: faqs/
+      url: /news
     - name: רכילות
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b50.svg
-      url: /contributors/
+      url: /gossip/
 
 
 article:

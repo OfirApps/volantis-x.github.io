@@ -2,7 +2,7 @@
 seo_title: Sample blog
 cover: true
 sidebar: []
-
+link: https://kolha.top/categories/demo/
 ---
 
 <center>
