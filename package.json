@@ -32,7 +32,8 @@
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^3.0.0",
     "hexo-theme-volantis": "^5.8.0",
-    "hexo-optimize":"3.3.0"
+    "hexo-optimize":"3.3.0",
+    "hexo-critical-css": "1.0.2"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
