@@ -27,11 +27,12 @@ hexo.extend.tag.register('contributors', function(args) {
   if (friends == undefined) {
     friends = {};
   }
-  var api = args.api;
-  if (api) {
+  if (args.repo) {
     friends = {
       group: {
-        api: api
+        api: args.api || 'https://gh-api.xaoxuu.com',
+        source: args.source || 'volantis-x/github-api',
+        repo: args.repo
       }
     }
   }
@@ -69,10 +70,10 @@ hexo.extend.tag.register('contributors', function(args) {
         if (group.title || group.description) {
           el += groupHeader(group);
         }
-        if (group.api) {
+        if (group.repo) {
           el += '<div class="contributorsjs-wrap"';
           el += ' id="contributors-api"';
-          el += ' api="' + group.api + '"';
+          el += ' api="' + group.api + '/v1/contributors?source=' + group.source + '&target=' + group.repo + '"';
           el += '>';
           el += '<div class="loading-wrap"><svg class="loading" style="vertical-align: middle;fill: currentColor;overflow: hidden;" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2709"><path d="M832 512c0-176-144-320-320-320V128c211.2 0 384 172.8 384 384h-64zM192 512c0 176 144 320 320 320v64C300.8 896 128 723.2 128 512h64z" p-id="2710"></path></svg><p></p></div>';
           el += '<div class="group-body"></div>';
