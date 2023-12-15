@@ -10,7 +10,7 @@ keywords: 'רכילות, ריכולים, סלבריטים, טיולים, יוו�
 author: 'קבוצת כל הטופ'
 language: he
 timezone: ''
-avatar: https://unpkg.com/volantis-static@0.0.1649552113628/media/org.volantis/blog/Logo-NavBar@3x.png
+avatar: https://cdn.jsdelivr.net/gh/OfirApps/files@main/favicon/favicon-150x150.png
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://kolha.top/

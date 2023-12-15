@@ -13,7 +13,7 @@ navbar:
       url: examples/
 
     - name: חדשות
-      icon: fa-duotone fa-newspaper-o faa-tada
+      icon: fa-duotone fa-newspaper faa-tada
       url: faqs/
 
     # - name: Community
