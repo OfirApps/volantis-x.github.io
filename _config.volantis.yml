@@ -75,17 +75,19 @@ article:
     # show readmore button
     readmore: auto # auto, always
   body:
+    top_meta: [author, category, date, counter]
+    bottom_meta: [updated, tags] #share
     footer_widget:
       references:
         title: Reference
         icon: fa-solid fa-quote-left
       related_posts:
-        enable: false
+        enable: true
         title: related articles
         icon: fa-solid fa-bookmark
         max_count: 5
       copyright:
-        enable: true
+        enable: false
         permalink: 'הכתובת הקבועה של הפוסט הזה: '
         content:
           - 'תוכן הבלוג עוקב אחר ייחוס-שימוש לא מסחרי-שיתוף באותו אופן 4.0 הבינלאומי (CC BY-NC-SA 4.0)'
@@ -239,33 +241,33 @@ sidebar:
           icon: fa-solid fa-angle-double-up
           url: /getting-started/#new-version-update
 
-    docs-v2:
-      class: group
-      display: [desktop, mobile] # [desktop, mobile]
-      header:
-        icon: fa-duotone fa-list-alt
-        title: Document navigation v2
+    # docs-v2:
+    #   class: group
+    #   display: [desktop, mobile] # [desktop, mobile]
+    #   header:
+    #     icon: fa-duotone fa-list-alt
+    #     title: Document navigation v2
 
-    docs-v3:
-      class: group
-      display: [desktop, mobile] # [desktop, mobile]
-      header:
-        icon: fa-duotone fa-list-alt
-        title: Document navigation v3
+    # docs-v3:
+    #   class: group
+    #   display: [desktop, mobile] # [desktop, mobile]
+    #   header:
+    #     icon: fa-duotone fa-list-alt
+    #     title: Document navigation v3
 
-    docs-v4:
-      class: group
-      display: [desktop, mobile] # [desktop, mobile]
-      header:
-        icon: fa-duotone fa-list-alt
-        title: Document navigation v4
+    # docs-v4:
+    #   class: group
+    #   display: [desktop, mobile] # [desktop, mobile]
+    #   header:
+    #     icon: fa-duotone fa-list-alt
+    #     title: Document navigation v4
 
-    docs-latest:
-      class: group
-      display: [desktop, mobile] # [desktop, mobile]
-      header:
-        icon: fa-duotone fa-book
-        title: Document navigation v5.0
+    # docs-latest:
+    #   class: group
+    #   display: [desktop, mobile] # [desktop, mobile]
+    #   header:
+    #     icon: fa-duotone fa-book
+    #     title: Document navigation v5.0
 
 
 
