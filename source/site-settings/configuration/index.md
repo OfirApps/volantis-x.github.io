@@ -60,7 +60,7 @@ import:
 language:
   -zh-CN
   -en
-  -zh-HK
+  -he
   -zh-TW
 ```
 
