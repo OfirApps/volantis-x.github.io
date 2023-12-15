@@ -14,13 +14,13 @@
   .content
     max-height: "calc(100vh - %s)" % ($gap * 5 + $navbar-height)
     a
-      border-left: $border-line solid transparent
+      border-right: $border-line solid transparent
       &.active
         list_active()
-        border-left: $border-line solid $color-theme
+        border-right: $border-line solid $color-theme
       &:hover
         list_hover()
-        border-left: $border-line solid $color-theme
+        border-right: $border-line solid $color-theme
 
 
   trans()
@@ -45,7 +45,7 @@
     right: 0
 
   a
-    padding-left: 8px
+    padding-right: 8px
     color: var(--color-meta)
     font-size: $fontsize-meta
     display: inline-block
@@ -55,22 +55,22 @@
       font-weight: normal
     .toc-item.toc-level-1
       .toc-child a
-        padding-left: 0.8 * $gap
+        padding-right: 0.8 * $gap
     .toc-item.toc-level-2
       .toc-child a
-        padding-left: 1.6 * $gap
+        padding-right: 1.6 * $gap
     .toc-item.toc-level-3
       .toc-child a
-        padding-left: 2.4 * $gap
+        padding-right: 2.4 * $gap
     .toc-item.toc-level-4
       .toc-child a
-        padding-left: 3.2 * $gap
+        padding-right: 3.2 * $gap
     .toc-item.toc-level-5
       .toc-child a
-        padding-left: 4 * $gap
+        padding-right: 4 * $gap
     .toc-item.toc-level-6
       .toc-child a
-        padding-left: 4.8 * $gap
+        padding-right: 4.8 * $gap
 
     li
       a
@@ -78,7 +78,7 @@
         font-weight: bold
         width: 100%
       width: auto
-      text-align: left
+      text-align: right
 
   &:empty
     display:none
@@ -92,6 +92,6 @@
     &.active
       &>.toc-link
         list_active()
-        border-left: $border-line solid $color-theme
+        border-right: $border-line solid $color-theme
       &>.toc-child
         max-height: 1000px
