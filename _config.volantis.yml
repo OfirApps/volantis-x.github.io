@@ -51,7 +51,7 @@ cover:
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f1.svg
       url: /getting-started/
       target: _self
-    - name: האחרונים
+    - name: <b>המשך</b>
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b07.svg
       url: 'javascript:scrolltobodyMainPage()'
     - name: חדשות
@@ -83,7 +83,7 @@ article:
         icon: fa-solid fa-quote-left
       related_posts:
         enable: true
-        title: related articles
+        title: מאמרים נוספים בנושא זה
         icon: fa-solid fa-bookmark
         max_count: 5
       copyright:
