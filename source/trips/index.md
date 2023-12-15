@@ -1,13 +1,13 @@
 ---
-seo_title: Sample blog
+seo_title: טיולים
 cover: true
 sidebar: []
 link: https://kolha.top/categories/demo/
 ---
 
 <center>
-{% span large yellow, Sample %}
-{% span large green, Blog %}
+{% span large yellow, כל ה %}
+{% span large green, טיולים %}
 </center>
 <br>
 
