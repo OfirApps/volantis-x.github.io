@@ -53,19 +53,24 @@ cover:
     - name: טיולים
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2708.svg
       url: /trips/
+      alt: "מטוס"
     - name: טכנולוגיה
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f1.svg
       url: /getting-started/
       target: /tech/
+      alt: "טלפון סלולרי"
     - name: <b>המשך</b>
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b07.svg
       url: 'javascript:scrolltobodyMainPage()'
+      alt: "חץ המופנה כלפי מטה"
     - name: חדשות
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f0.svg
       url: /news
+      alt: "עיתון"
     - name: רכילות
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b50.svg
       url: /gossip/
+      alt: "כוכב"
 
 
 article:
@@ -103,6 +108,7 @@ article:
         avatar: https://cdn.jsdelivr.net/gh/OfirApps/files@main/favicon/favicon-150x150.png
         name: איילה
         url: https://github.com/volantis-x/
+        alt: "איילה, צוות כל הטופ"
       date:
         icon: fa-solid fa-calendar-alt
         title: 'פורסם בתאריך:'
