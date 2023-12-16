@@ -32,6 +32,7 @@ navbar:
         - name: מצב לילה\מצב חשוך
           icon: fa-solid fa-moon
           toggle: darkmode
+          customvalueforantiseodegrading: "nofollow"
         # - name: Music
         #   icon: fa-duotone fa-compact-disc fa-spin
     - name: עוד
