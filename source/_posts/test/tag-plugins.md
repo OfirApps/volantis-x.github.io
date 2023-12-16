@@ -2,6 +2,7 @@ title: Tag Plugins
 date: 2013-12-25 00:14:39
 tags:
 robots: noindex,nofollow
+hidden: true
 ---
 
 This post is used for testing tag plugins. See docs for more info.

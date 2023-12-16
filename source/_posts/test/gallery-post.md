@@ -6,6 +6,7 @@ photos:
 - /assets/wallpaper-878514.jpg
 - http://placehold.it/350x150.jpg
 robots: noindex,nofollow
+hidden: true
 ---
 
 This post contains 4 photos:
