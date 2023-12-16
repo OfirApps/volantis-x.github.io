@@ -26,20 +26,24 @@ navbar:
     #   icon: fa-duotone fa-fan fa-spin
     #   url: contributors/
 
-    - name: הגדרות
-      icon: fa-duotone fa-cog
-      rows:
-        - name: מצב לילה\מצב חשוך
-          icon: fa-solid fa-moon
-          toggle: darkmode
-          customvalueforantiseodegrading: "nofollow"
-        # - name: Music
-        #   icon: fa-duotone fa-compact-disc fa-spin
+    # - name: הגדרות
+    #   icon: fa-duotone fa-cog
+    #   rows:
+    #     - name: מצב לילה\מצב חשוך
+    #       icon: fa-solid fa-moon
+    #       toggle: darkmode
+    #       customvalueforantiseodegrading: "nofollow"
+    #     # - name: Music
+    #     #   icon: fa-duotone fa-compact-disc fa-spin
     - name: עוד
       icon: fa-duotone fa-ellipsis-v
       rows:
         - name: מידע עלינו
           url: /about
+        - name: מצב לילה
+          icon: fa-solid fa-moon
+          toggle: darkmode
+          customvalueforantiseodegrading: "nofollow"
 
 
 
