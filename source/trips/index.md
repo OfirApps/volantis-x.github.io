@@ -15,11 +15,11 @@ link: https://kolha.top/categories/demo/
 <div class="tag-plugin sites-wrap"><div class="sitesjs-wrap"><div class="group-body">
 <div class="site-card">
 <a class="card-link" target="_blank" href="">
-<img src="sitescreenshot" onerror="errorImgCover(this)"/>
+<img src="https://scontent.ftlv5-1.fna.fbcdn.net/v/t39.30808-6/398352170_895896375233100_495690350793596856_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=I9bvcH4XSosAX9nFeb1&_nc_ht=scontent.ftlv5-1.fna&oh=00_AfAH5K9xFlQqvCop9oziOHtW3hl9Kns2yZYgoGRJMUiXXA&oe=65872D04" onerror="errorImgCover(this)"/>
 <div class="info">
 <img src="" onerror="errorImgAvatar(this)"/>
-<span class="title"></span>
-<span class="desc"></span>
+<span class="title">בדיקה</span>
+<span class="desc">מנה מנה</span>
 </div>
 </a></div>
 </div>
