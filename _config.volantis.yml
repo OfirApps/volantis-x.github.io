@@ -11,16 +11,20 @@ navbar:
   menu:
     - name: טיולים
       icon: fa-duotone fa-plane faa-tada
-      url: trips/
+      url: travel/
       target: _self
 
     - name: טכנולוגיה
       icon: fa-duotone fa-mobile faa-tada
       url: tech/
 
-    - name: חדשות
-      icon: fa-duotone fa-newspaper faa-tada
-      url: news/
+    # - name: חדשות
+    #   icon: fa-duotone fa-newspaper faa-tada
+    #   url: news/
+
+    - name: אוכל
+      icon: fa-duotone fa-fork-knife faa-tada
+      url: food/
 
     # - name: Community
     #   icon: fa-duotone fa-fan fa-spin
@@ -57,13 +61,12 @@ cover:
   features:
     - name: טיולים
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2708.svg
-      url: /trips/
+      url: /travel/
       alt: "מטוס"
       width: 44px
     - name: טכנולוגיה
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f1.svg
-      url: /getting-started/
-      target: /tech/
+      url: /tech/
       alt: "טלפון סלולרי"
       width: 44px
     - name: <b>המשך</b>
@@ -71,15 +74,15 @@ cover:
       url: 'javascript:scrolltobodyMainPage()'
       alt: "חץ המופנה כלפי מטה"
       width: 44px
+    - name: אוכל
+      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1F374.svg
+      url: /gossip/
+      alt: "סכין ומזלג"
+      width: 44px
     - name: חדשות
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f0.svg
       url: /news
       alt: "עיתון"
-      width: 44px
-    - name: רכילות
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b50.svg
-      url: /gossip/
-      alt: "כוכב"
       width: 44px
 
 
