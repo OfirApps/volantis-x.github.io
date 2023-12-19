@@ -220,13 +220,13 @@ sidebar:
           rel: external nofollow noopener noreferrer
           target: _blank
 
-    docs-volantis-latest:
-      class: group
-      display: [desktop, mobile] # [desktop, mobile]
-      seo_title: Volantis
-      header:
-        icon: fa fa-book
-        title: Document navigation v5.0
+    # docs-volantis-latest:
+    #   class: group
+    #   display: [desktop, mobile] # [desktop, mobile]
+    #   seo_title: Volantis
+    #   header:
+    #     icon: fa fa-book
+    #     title: Document navigation v5.0
 
     # qrcode widget
     # qrcode:
@@ -326,6 +326,7 @@ tag_plugins:
     iconfont: 'Font Awesome 6 Pro'
 
 plugins:
+
   # criticalcss:
   # critical:
   #   minify: true
@@ -388,6 +389,13 @@ plugins:
     enable: true
   comment_typing:
     enable: true
+  sitesjs:
+    enable: true
+  friendsjs:
+    enable: false
+  contributorsjs:
+    enable: false
+
 
   pjax:
     enable: true

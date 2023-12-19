@@ -7,18 +7,23 @@ link: https://kolha.top/categories/demo/
 
 <center>
 {% span large yellow, כל ה %}
-{% span large green, טיולים %}
+{% span large green,טיולים %}
 </center>
 <br>
 
-## Team member's blog
-
-{% sites only:test_demo %}
-
-
-## Who uses Volantis
-
-{% sites only:examples %}
+## דפים ממולצים
+<div class="tag-plugin sites-wrap"><div class="sitesjs-wrap"><div class="group-body">
+<div class="site-card">
+<a class="card-link" target="_blank" href="">
+<img src="sitescreenshot" onerror="errorImgCover(this)"/>
+<div class="info">
+<img src="" onerror="errorImgAvatar(this)"/>
+<span class="title"></span>
+<span class="desc"></span>
+</div>
+</a></div>
+</div>
+</div>
 
 <br>
 
