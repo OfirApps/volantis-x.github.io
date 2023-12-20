@@ -75,9 +75,9 @@ cover:
       alt: "חץ המופנה כלפי מטה"
       width: 44px
     - name: אוכל
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f374.svg
+      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f963.svg
       url: /gossip/
-      alt: "סכין ומזלג"
+      alt: "קערה עם כפית"
       width: 44px
     - name: חדשות
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f0.svg
