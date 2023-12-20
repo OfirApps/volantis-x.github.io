@@ -138,14 +138,15 @@ comments:
   service: disqus
   disqus:
     shortname: kolhatop
+    autoload: true
     path: /
-  valine:
-    appId: FIKAgh6n0pUM08JXxhJHChVQ-MdYXbMMI
-    appKey: RJGiOYFc1fBvfox4frBPpRzU
-    path: /
-  utterances:
-    repo: utterance/utterances
-    issue-number: 1
+  # valine:
+  #   appId: FIKAgh6n0pUM08JXxhJHChVQ-MdYXbMMI
+  #   appKey: RJGiOYFc1fBvfox4frBPpRzU
+  #   path: /
+  # utterances:
+  #   repo: utterance/utterances
+  #   issue-number: 1
 
 sidebar:
   position: right # left right
