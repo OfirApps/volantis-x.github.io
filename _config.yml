@@ -77,6 +77,7 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  "אוסף-אטרקציות": אוסף
 tag_map:
 
 # Metadata elements
