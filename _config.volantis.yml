@@ -138,7 +138,7 @@ comments:
   service: disqus
   disqus:
     shortname: kolhatop
-    autoload: true
+    autoload: false
     path: /
   # valine:
   #   appId: FIKAgh6n0pUM08JXxhJHChVQ-MdYXbMMI
