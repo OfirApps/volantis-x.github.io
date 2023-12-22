@@ -14,12 +14,12 @@ link: https://kolha.top/categories/demo/
 ## דפים ממולצים
 <div class="tag-plugin sites-wrap"><div class="sitesjs-wrap"><div class="group-body">
 <div class="site-card">
-<a class="card-link" target="_blank" href="">
-<img src="https://scontent.ftlv5-1.fna.fbcdn.net/v/t39.30808-6/398352170_895896375233100_495690350793596856_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=I9bvcH4XSosAX9nFeb1&_nc_ht=scontent.ftlv5-1.fna&oh=00_AfAH5K9xFlQqvCop9oziOHtW3hl9Kns2yZYgoGRJMUiXXA&oe=65872D04" onerror="errorImgCover(this)"/>
+<a class="card-link" target="_blank" href="https://kolha.top/travel/tips/haravot-barzel">
+<img src="https://i.imgur.com/ppT2gvt.jpg" onerror="errorImgCover(this)"/>
 <div class="info">
-<img src="" onerror="errorImgAvatar(this)"/>
-<span class="title">בדיקה</span>
-<span class="desc">מנה מנה</span>
+<img src="https://cdn.jsdelivr.net/gh/OfirApps/files@main/ibb-protected-url.webp" onerror="errorImgAvatar(this)"/>
+<span class="title"> טיול אחרי המלחמה</span>
+<span class="desc"> אנחנו יודעים עד כמה כולם רוצים לטוס,  ולכן הכנו לכם רשימה של מדינות שעומדות לצד ישראל במלחמה, ומכילות גם נופים מרהיבים ואטרקציות נהדרות.</span>
 </div>
 </a></div>
 </div>
