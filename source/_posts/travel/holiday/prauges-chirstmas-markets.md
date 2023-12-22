@@ -4,6 +4,7 @@ description: בפראג ישנם מלא שווקי חג מולד שווים, ה�
 date: 2023-12-20 14:00:00
 tags: [פראג, טיולים, כריסמס]
 categories: [טיולים]
+cover: https://i.imgur.com/ho74yFK.jpg
 ---
 
 **זהו חלק מהכתבה המלאה על [כריסמס בפראג](https://kolha.top/travel/holiday/christmas-prauge)**
