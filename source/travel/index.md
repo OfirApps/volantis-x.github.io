@@ -14,7 +14,7 @@ link: https://kolha.top/categories/demo/
 ## דפים ממולצים
 <div class="tag-plugin sites-wrap"><div class="sitesjs-wrap"><div class="group-body">
 <div class="site-card">
-<a class="card-link" target="_blank" href="https://kolha.top/travel/tips/haravot-barzel">
+<a class="card-link" href="https://kolha.top/travel/tips/haaravot-barzel">
 <img src="https://i.imgur.com/ppT2gvt.jpg" onerror="errorImgCover(this)"/>
 <div class="info">
 <img src="https://cdn.jsdelivr.net/gh/OfirApps/files@main/ibb-protected-url.webp" onerror="errorImgAvatar(this)"/>
