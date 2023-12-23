@@ -139,7 +139,7 @@ comments:
   disqus:
     shortname: kolhatop
     autoload: false
-    #path: /
+  #  path: /
   # valine:
   #   appId: FIKAgh6n0pUM08JXxhJHChVQ-MdYXbMMI
   #   appKey: RJGiOYFc1fBvfox4frBPpRzU
@@ -151,7 +151,7 @@ comments:
 sidebar:
   position: right # left right
   for_page: [post, category, tagcloud] #music
-  for_post: [toc] #music
+  for_post: [toc, category, tagcloud] #music
   widget_library:
     toc:
       class: toc
