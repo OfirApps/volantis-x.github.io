@@ -76,7 +76,7 @@ cover:
       width: 44px
     - name: אוכל
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f963.svg
-      url: /gossip/
+      url: /food/
       alt: "קערה עם כפית"
       width: 44px
     - name: חדשות
