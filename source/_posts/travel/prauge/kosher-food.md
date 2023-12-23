@@ -4,7 +4,7 @@ description: רשימה זאת מכילה את כל המסעדות הכשרות 
 date: 2023-12-20 10:00:00
 tags: [פראג, טיולים, מסעדות]
 categories: [טיולים]
-cover: https://i.imgur.com/ho74yFK.jpg
+cover: https://i.imgur.com/0XganQJ.jpg
 ---
  רשימה זאת מכילה את כל המסעדות הכשרות הכי מומלצות בפראג, המסעדות פה לרוב יופיעו בנוסף בעמודים אחרים המציינים טיולים בפראג
  - **מסעדת שלנו** (Shelanu Dairy Restaurant/Shelanu pizzeria):
