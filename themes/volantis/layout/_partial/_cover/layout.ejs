@@ -2,8 +2,10 @@
   <div id="parallax-window"></div>
 <% } else if (theme.plugins.lazyload && theme.plugins.lazyload.enable) { %>
   <div class='cover-bg lazyload placeholder' 
-  <% if (page.cover.includes("http")) { %>
-    data-bg="<%- page.cover %>"
+  <% if (page.layout == "article") { %>
+    <% if (page.cover.includes("http")) { %>
+      data-bg="<%- page.cover %>"
+    <% } %>
   <% } else { %>
     data-bg="<%- theme.cover.background %>"
   <% } %>
@@ -11,8 +13,10 @@
   
 <% } else { %>
   <div class='cover-bg' 
-  <% if (page.cover.includes("http")) { %>
-    style='background-image:url(<%- page.cover %>)'
+  <% if (page.layout == "article") { %>
+    <% if (page.cover.includes("http")) { %>
+      style='background-image:url(<%- page.cover %>)'
+    <% } %>
   <% } else { %>
     style='background-image:url(<%- theme.cover.background %>)'
   <% } %>
