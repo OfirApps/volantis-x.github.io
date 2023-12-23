@@ -34,7 +34,7 @@ cover: https://i.imgur.com/uk9uV5M.jpg
 
 ## מסעדות
 ### מסעדות כשרות
-	( כל המידע נלקח מהמאמר שלנו על [מסעדות כשרות בפראג](https://kolha.top/travel/prauge/kosher-food) )
+(כל המידע נלקח מהמאמר שלנו על [מסעדות כשרות בפראג](https://kolha.top/travel/prauge/kosher-food))
  - **מסעדת שלנו** (Shelanu Dairy Restaurant/Shelanu pizzeria):
 	![תמונה של המסעדה](https://chabadprague.cz/wp-content/uploads/2018/11/Shelanu-Pizzerie-Prague-3.jpg)
 	 פיצריית "שלנו" מציעה מבחר פיצות טעימות ומגוון מאכלי חלב ופרווה. פיצריית "שלנו" ממוקמת בלב הרובע היהודי, פסיעות ספורות מבית הכנסת של המהר"ל.  

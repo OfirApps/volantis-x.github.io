@@ -51,3 +51,14 @@ cover: https://i.imgur.com/0XganQJ.jpg
 	שבת ומוצ"ש: **סגור**
 	**📍 U Milosrdných 849/6, 110 00 Staré Město, Czechia
 	📧 kosher@chabadprague.cz**
+
+- **מסעדות קינג סולומון במחוז החמישי** (5th District Restaurant & Café by King Solomon):
+ **המסעדה עצמה כשרה, אך על פי האתר שלה, פתוחה בשבת, מומלץ להתקשר ולבדוק**
+	![מסעדת המלך סולומון](https://whereyoueat.com/r_gallery_images/rgallery-17530/0001-BG.jpg)
+	מסעדה זו היא חלום של כל אוהב אוכל. המסעדה מציעה מנות כשרות מגוונות באווירה נעימה. מרק כדורי מצה, דג גפילטה, חזה בקר מעושר,תרנגולת מצויינת ועוד!
+	**שעות פתיחה:**
+	ראשון - שישי:  **22:00 - 11:00**
+	שבת: **הזמנות בלבד**
+	📍 5th District Restaurant & Café  by King Solomon (Pátá čtvrť) Siroka 8  110 00 Praha 1 - Josefov
+	📧 info@kosher.cz  
+	📞 [+420 224 818 752](tel:+420224818752)
