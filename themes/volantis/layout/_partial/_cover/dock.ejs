@@ -23,7 +23,7 @@
                 target="<%- value.target %>"
               <% } %>
               active-action="action-<%= url_for(value.url).replace(/\/|%|\./g, "")?url_for(value.url).replace(/\/|%|\./g, ""):"home" %>">
-              <% if (value.img) { %><img src='<%= value.img %>' alt="<%- value.alt %>"><% } else if (value.icon) { %><i class='<%= value.icon %> fa-fw' alt="<%- value.alt %>"></i><% } %><p><%- value.name %></p>
+              <% if (value.img) { %><img src='<%= value.img %>' alt="<%- value.alt %>" fetchpriority="high"><% } else if (value.icon) { %><i class='<%= value.icon %> fa-fw' alt="<%- value.alt %>"></i><% } %><p><%- value.name %></p>
             </a>
           <%})%>
         <% } %>
