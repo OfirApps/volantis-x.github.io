@@ -15,19 +15,29 @@
       <div class='list-h'>
         <% if (theme.cover.features) { %>
           <% getList(theme.cover.features).forEach(function(value){ %>
-            <% if (page.path != "/") { %>
-              <input type="hidden" id="yuh" value="<%- page.path %>">
-            <% } %>
-            <a href="<%= url_for(value.url) %>"
-              <% if (value.rel) { %>
-                rel="<%- value.rel %>"
+            <% if (page.path != "index.html" && value.changeable == true) { %>
+              <a href="<%= url_for(value.curl) %>"
+                <% if (value.rel) { %>
+                  rel="<%- value.rel %>"
+                <% } %>
+                <% if (value.target) { %>
+                  target="<%- value.target %>"
+                <% } %>
+                active-action="action-<%= url_for(value.curl).replace(/\/|%|\./g, "")?url_for(value.curl).replace(/\/|%|\./g, ""):"home" %>">
+                <% if (value.cimg) { %><img src='<%= value.cimg %>' alt="<%- value.calt %>" fetchpriority="high"><% } else if (value.icon) { %><i class='<%= value.icon %> fa-fw' alt="<%- value.calt %>"></i><% } %><p><%- value.cname %></p>
+              </a>
+            <% } else { %>
+              <a href="<%= url_for(value.url) %>"
+                <% if (value.rel) { %>
+                  rel="<%- value.rel %>"
+                <% } %>
+                <% if (value.target) { %>
+                  target="<%- value.target %>"
+                <% } %>
+                active-action="action-<%= url_for(value.url).replace(/\/|%|\./g, "")?url_for(value.url).replace(/\/|%|\./g, ""):"home" %>">
+                <% if (value.img) { %><img src='<%= value.img %>' alt="<%- value.alt %>" fetchpriority="high"><% } else if (value.icon) { %><i class='<%= value.icon %> fa-fw' alt="<%- value.alt %>"></i><% } %><p><%- value.name %></p>
+              </a>
               <% } %>
-              <% if (value.target) { %>
-                target="<%- value.target %>"
-              <% } %>
-              active-action="action-<%= url_for(value.url).replace(/\/|%|\./g, "")?url_for(value.url).replace(/\/|%|\./g, ""):"home" %>">
-              <% if (value.img) { %><img src='<%= value.img %>' alt="<%- value.alt %>" fetchpriority="high"><% } else if (value.icon) { %><i class='<%= value.icon %> fa-fw' alt="<%- value.alt %>"></i><% } %><p><%- value.name %></p>
-            </a>
           <%})%>
         <% } %>
       </div>
