@@ -16,7 +16,7 @@
         <% if (theme.cover.features) { %>
           <% getList(theme.cover.features).forEach(function(value){ %>
             <% if (page.path != "index.html" && value.changeable == true) { %>
-              <a href="<%= url_for(value.curl) %>"
+              <a href="<%= url_for(value.curl) %>" class="pjax"
                 <% if (value.rel) { %>
                   rel="<%- value.rel %>"
                 <% } %>
@@ -27,7 +27,7 @@
                 <% if (value.cimg) { %><img src='<%= value.cimg %>' alt="<%- value.calt %>" fetchpriority="high"><% } else if (value.icon) { %><i class='<%= value.icon %> fa-fw' alt="<%- value.calt %>"></i><% } %><p><%- value.cname %></p>
               </a>
             <% } else { %>
-              <a href="<%= url_for(value.url) %>"
+              <a href="<%= url_for(value.url) %>" class="pjax"
                 <% if (value.rel) { %>
                   rel="<%- value.rel %>"
                 <% } %>
