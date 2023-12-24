@@ -1,7 +1,7 @@
 <% if (theme.plugins.parallax.enable) { %>
   <div id="parallax-window"></div>
 <% } else if (theme.plugins.lazyload && theme.plugins.lazyload.enable) { %>
-  <div class='cover-bg lazyload placeholder' 
+  <div class='cover-bg lazyload placeholder pjax' 
   <% if (page.layout == "post") { %>
     <% if (page.cover.includes("http")) { %>
       data-bg="<%- page.cover %>"
