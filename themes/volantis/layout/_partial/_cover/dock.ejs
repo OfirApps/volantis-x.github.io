@@ -15,7 +15,7 @@
       <div class='list-h'>
         <% if (theme.cover.features) { %>
           <% getList(theme.cover.features).forEach(function(value){ %>
-            <% if (typeof page.path != "/") { %>
+            <% if (page.path != "/") { %>
               <input type="hidden" id="yuh">
             <% } %>
             <a href="<%= url_for(value.url) %>"
