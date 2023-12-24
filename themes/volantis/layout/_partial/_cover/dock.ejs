@@ -16,7 +16,7 @@
         <% if (theme.cover.features) { %>
           <% getList(theme.cover.features).forEach(function(value){ %>
             <% if (page.path != "/") { %>
-              <input type="hidden" id="yuh">
+              <input type="hidden" id="yuh" value="<%- page.path %>">
             <% } %>
             <a href="<%= url_for(value.url) %>"
               <% if (value.rel) { %>
