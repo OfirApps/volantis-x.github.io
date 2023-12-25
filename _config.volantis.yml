@@ -105,7 +105,7 @@ article:
     readmore: auto # auto, always
   body:
     top_meta: [author, category, date, counter]
-    bottom_meta: [updated, tags] #share
+    bottom_meta: [tags] #share updated
     footer_widget:
       references:
         title: Reference
@@ -188,15 +188,15 @@ sidebar:
       color: true
       start_color: '#999'
       end_color: '#555'
-    post:
-      class: text
-      display: [desktop, mobile] # [desktop, mobile]
-      header:
-        icon: fa-solid fa-plus
-        title: Community Activity
-        url: /contributors/
-      content:
-        - '**How to get your articles included here?**<br>The official website is open source. As long as your article is related to the Hexo blog construction, you can self-index it. For detailed steps, please see:「[**Publish and share articles**](/contributors/#发布与分享文章)」。'
+    # post:
+    #   class: text
+    #   display: [desktop, mobile] # [desktop, mobile]
+    #   header:
+    #     icon: fa-solid fa-plus
+    #     title: Community Activity
+    #     url: /contributors/
+    #   content:
+    #     - '**How to get your articles included here?**<br>The official website is open source. As long as your article is related to the Hexo blog construction, you can self-index it. For detailed steps, please see:「[**Publish and share articles**](/contributors/#发布与分享文章)」。'
     # Document Navigation
     guide:
       class: grid
