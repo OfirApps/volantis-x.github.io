@@ -1,7 +1,7 @@
 'use strict';
 //MatkonIm
 hexo.extend.tag.register('matkoning', function() {
-    return `<div class="matkoning">`;
+    return `<style>/matkoning {margin-right: 1rem;}.matkoning ul li {list-style-position: inside;list-style-type: disclosure-closed;}</style><div class="matkoning">`;
 });
 
 hexo.extend.tag.register('divend', function() {
@@ -9,5 +9,5 @@ hexo.extend.tag.register('divend', function() {
 });
 
 hexo.extend.tag.register('taavon', function() {
-    return `<div><b>בתאבון!</b></div>`;
+    return `<div><b style="text-align: center;font-size: large;">בתאבון!</b></div>`;
 });
