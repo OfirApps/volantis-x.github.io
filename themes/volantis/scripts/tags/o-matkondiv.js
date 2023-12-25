@@ -1,11 +1,11 @@
 'use strict';
 //MatkonIm
 hexo.extend.tag.register('matkoning', function() {
-    return `<recpie class="matkoning">`;
+    return `<div class="matkoning">`;
 });
 
 hexo.extend.tag.register('divend', function() {
-    return `</recpie>`;
+    return `</div>`;
 });
 
 hexo.extend.tag.register('taavon', function() {
