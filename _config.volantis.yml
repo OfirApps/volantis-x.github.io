@@ -11,12 +11,11 @@ navbar:
   menu:
     - name: טיולים
       icon: fa-duotone fa-plane faa-tada
-      url: travel/
-      target: _self
+      url: https://kolha.top/categories/טיולים/
 
-    - name: טכנולוגיה
-      icon: fa-duotone fa-mobile faa-tada
-      url: tech/
+    # - name: טכנולוגיה
+    #   icon: fa-duotone fa-mobile faa-tada
+    #   url: tech/
 
     # - name: חדשות
     #   icon: fa-duotone fa-newspaper faa-tada
@@ -24,7 +23,7 @@ navbar:
 
     - name: אוכל
       icon: fa-duotone fa-fork-knife faa-tada
-      url: food/
+      url: https://kolha.top/categories/אוכל/ #food/
 
     # - name: Community
     #   icon: fa-duotone fa-fan fa-spin
@@ -61,13 +60,13 @@ cover:
   features:
     - name: טיולים
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2708.svg
-      url: /travel/
+      url: https://kolha.top/categories/טיולים/
       alt: "מטוס"
       width: 44px
-    - name: טכנולוגיה
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c0.svg
-      url: /tech/
-      alt: "דיסק"
+    # - name: טכנולוגיה
+    #   img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c0.svg
+    #   url: /tech/
+    #   alt: "דיסק"
       width: 44px
     - name: <b>המשך</b>
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b07.svg
@@ -81,14 +80,14 @@ cover:
       calt: "בית"
     - name: אוכל
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f963.svg
-      url: /food/
+      url: https://kolha.top/categories/אוכל/
       alt: "קערה עם כפית"
       width: 44px
-    - name: חדשות
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f0.svg
-      url: /news
-      alt: "עיתון"
-      width: 44px
+    # - name: חדשות
+    #   img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f0.svg
+    #   url: /news
+    #   alt: "עיתון"
+    #   width: 44px
 
 
 article:
