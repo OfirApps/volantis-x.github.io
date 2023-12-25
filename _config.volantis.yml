@@ -67,7 +67,7 @@ cover:
     #   img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c0.svg
     #   url: /tech/
     #   alt: "דיסק"
-      width: 44px
+    #  width: 44px
     - name: <b>המשך</b>
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2b07.svg
       url: 'javascript:scrolltobodyMainPage()'
