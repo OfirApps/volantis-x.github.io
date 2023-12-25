@@ -1,14 +1,14 @@
 ---
 seo_title: מידע על האתר
-short_title: עלינו
+short_title: עלי
 sidebar: [toc]
-description: Volantis is a feature-rich and highly modular Hexo blog theme. Thanks to its powerful modularity, you can easily build a minimalist style blog, or you can build a large-scale comprehensive blog with multi-person collaboration and document modules based on the official website.
+description: כל הטופ הוא בלוג המכיל סיקורים המלצות וחדשות על מגוון של נושאים
 #hidden: true
 ---
 
 <p>
 {% span logo center large, כל הטופ %}
-{% span center small logo, רק הטופ וכל מה שיש ממנו %}
+<!-- {% span center small logo, רק הטופ וכל מה שיש ממנו %} -->
 </p>
 <br>
 
@@ -16,7 +16,9 @@ description: Volantis is a feature-rich and highly modular Hexo blog theme. Than
 
 <!-- {} link example blog, https://volantis.js.org/examples/ %} -->
 
-## מי אנחנו
+## מי אני
+שלום לכולם, אני איילה! אני פשוט מאוהבת בחיים. אני אוהבת לטייל, לגלות מקומות חדשים, להתנסות במתכונים שלא ניסיתי מעולם ולסקר כל מה שאפשר. זו הסיבה שהקמתי את הבלוג שלי **כל הטופ**.
+ בבלוג, אני משתפת את החוויות שלי, המקומות שאני מטיילת בהם, המתכונים שאני מנסה והרעיונות שאני מגלה. אני מזמינה אתכם להצטרף אלי למסע המרתק הזה של חקירה וגילוי. אני מקווה שתהנו מהבלוג שלי כמו שאני נהנית לכתוב אותו. תודה שאתם כאן ומצטרפים אלי למסע! ❤
 
 <!-- 
 {% tabs prepare, 1 %}
