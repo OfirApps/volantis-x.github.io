@@ -94,7 +94,7 @@ routing.registerRoute(
  * Method: networkOnly
  */
 routing.registerRoute(
-    /.*baidu\.com.*/,
+    /.*google\.com.*/,
     new NetworkOnly()
 );
 /*
