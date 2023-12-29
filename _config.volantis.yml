@@ -41,7 +41,8 @@ navbar:
     - name: עוד
       icon: fa-duotone fa-ellipsis-v
       rows:
-        - name: מידע עלינו
+        - name: מידע על האתר
+          icon: fa-duotone fa-info-circle
           url: /about
         - name: מצב לילה
           icon: fa-solid fa-moon
