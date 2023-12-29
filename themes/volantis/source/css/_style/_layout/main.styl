@@ -51,10 +51,12 @@
   if hexo-config('sidebar.position') =='left'
     padding-left: $gap
     @media screen and (max-width:$device-tablet)
+      padding-right:0
       padding-left: 0
   &.no_sidebar
     width: 100%
     padding-left: 0
+    padding-right:0
     max-width: $layout-width - $sidebar
     @media screen and (min-width: $device-2k)
       max-width: "calc(55vw - %s)" % $sidebar
