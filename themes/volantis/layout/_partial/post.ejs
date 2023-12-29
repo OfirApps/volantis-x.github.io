@@ -39,10 +39,10 @@
       <img alt="<%- post.title %>" src='<%- theme.article.preview.pin_icon %>'/>
     </div>
   <% } %>
-  <% if (post.headimg) { %>
+  <% if (post.cover) { %>
     <div class='headimg-div'>
       <a class='headimg-a' href="<%- url_for(post.link || post.path) %>">
-        <img itemprop="image" class='headimg' alt="<%- post.title %>" src='<%- post.headimg %>'/>
+        <img itemprop="image" class='headimg' alt="<%- post.title %>" src='<%- post.cover %>'/>
       </a>
     </div>
   <% } else { %>
