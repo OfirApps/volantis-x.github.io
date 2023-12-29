@@ -59,10 +59,11 @@ hexo.extend.helper.register("generate_title", function (config, theme, page) {
   let data = init(hexo, config, theme, page);
   let title = data.title
   let s = "<title>"
-  if (title) {
-    s += `${title} - `
-  }
-  s += `${config.title}</title>`
+  // if (title) {
+  //   s += `${title} - `
+  // }
+  // s += `${config.title}</title>`
+  s += `${title}</title>`
   return s
 });
 
