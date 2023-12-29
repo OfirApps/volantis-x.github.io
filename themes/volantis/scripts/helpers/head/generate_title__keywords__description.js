@@ -63,7 +63,11 @@ hexo.extend.helper.register("generate_title", function (config, theme, page) {
   //   s += `${title} - `
   // }
   // s += `${config.title}</title>`
+  if (title) {
   s += `${title}</title>`
+  } else {
+    s += `${config.title}</title>`
+  }
   return s
 });
 
