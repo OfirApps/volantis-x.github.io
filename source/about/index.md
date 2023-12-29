@@ -1,7 +1,7 @@
 ---
 seo_title: מידע על האתר
 short_title: עלי
-layout: post
+layout: article
 title: מידע על האתר
 sidebar: [toc]
 description: כל הטופ הוא בלוג המכיל סיקורים המלצות וחדשות על מגוון של נושאים
