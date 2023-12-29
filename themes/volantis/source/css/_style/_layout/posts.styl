@@ -22,15 +22,15 @@
     height: 20px
     border-radius: 20px
     left: $gap * 1.5
-    top: $gap * 1.5
+    top: calc(190px + $gap * 1.5)
     z-index: 1
     pointer-events: none
     @media screen and (max-width: $device-tablet)
-      top: calc(250px + 23px)
+      top: "calc(250px + %s * 1.5)" % $gap
     @media screen and (max-width: $device-mobile)
-      top: calc(220px + 23px)
+      top: "calc(220px + %s * 1.5)" % $gap
     @media screen and (max-width: $device-mobile-l)
-      top: calc(190px + 23px)
+      top: "calc(190px + %s * 1.5)" % $gap
 
 .meta-v3[line_style='solid']
   border-top: 1px solid alpha($color-text, 0.1)
