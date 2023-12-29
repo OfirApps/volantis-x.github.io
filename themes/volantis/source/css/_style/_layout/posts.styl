@@ -7,7 +7,7 @@
     &:hover
       color: $color-hover
   &[pin]
-    margin-right: 36px
+    /*margin-right: 36px*/
 .article-desc
   word-break: break-word
 .post-v3
@@ -21,10 +21,16 @@
     width: 20px
     height: 20px
     border-radius: 20px
-    right: $gap * 1.5
+    left: $gap * 1.5
     top: $gap * 1.5
     z-index: 1
     pointer-events: none
+    @media screen and (max-width: $device-tablet)
+      top: 250px
+    @media screen and (max-width: $device-mobile)
+      top: 220px
+    @media screen and (max-width: $device-mobile-l)
+      top: 190px
 
 .meta-v3[line_style='solid']
   border-top: 1px solid alpha($color-text, 0.1)
