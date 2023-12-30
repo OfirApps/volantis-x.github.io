@@ -1,6 +1,5 @@
-<head hexo-theme='https://github.com/volantis-x/hexo-theme-volantis/#<%- theme.info.theme_version %>'>
+<head>
   <%- meta_generator() %>
-  <meta name="Volantis" content="<%- theme.info.theme_version %>">
   <meta charset="utf-8">
   <!-- SEO相关 -->
   <%- generate_seo(theme, page) %>
@@ -57,6 +56,12 @@
   <%- generate_keywords(config, theme, page) %>
   <%- generate_description(config, theme, page) %>
   <%- open_graph(theme.open_graph) %>
+  <%_ if (page.cover) { _%>
+    <%_ if (page.cover.includes("http")) { _%>
+      <meta property="og:image" content="${page.cover}" />
+    <%_ } _%>
+    
+  <%_ } _%>
   <style>
     /* 首屏样式 */
     <%- FirstCSS() %>
