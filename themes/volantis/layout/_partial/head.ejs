@@ -57,9 +57,7 @@
   <%- generate_description(config, theme, page) %>
   <%- open_graph(theme.open_graph) %>
   <%_ if (page.cover) { _%>
-    <%_ if (page.cover.includes("http")) { _%>
       <meta property="og:image" content="${page.cover}" />
-    <%_ } _%>
     
   <%_ } _%>
   <style>
