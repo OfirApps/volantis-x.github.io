@@ -1,10 +1,8 @@
 <head>
   <%- meta_generator() %>
   <meta charset="utf-8">
-  <!-- SEO相关 -->
   <%- generate_seo(theme, page) %>
   <%- autoCanonical(config, page) %>
-  <!-- 渲染优化 -->
   <%_ if (theme.dns_prefetch && theme.dns_prefetch.length){ _%>
     <meta http-equiv='x-dns-prefetch-control' content='on' />
     <%_ getList(theme.dns_prefetch).forEach(function(item){ _%>
@@ -65,7 +63,6 @@
     <meta property="og:image" content="<%- page.cover %>" />
   <%_ } _%>
   <style>
-    /* 首屏样式 */
     <%- FirstCSS() %>
   </style>
   <link rel="stylesheet" href="<%- theme.cdn.map.css.style %>" media="print" onload="this.media='all';this.onload=null">
