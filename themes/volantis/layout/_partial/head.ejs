@@ -55,11 +55,12 @@
   <%- generate_title(config, theme, page) %>
   <%- generate_keywords(config, theme, page) %>
   <%- generate_description(config, theme, page) %>
-  <%- open_graph(theme.open_graph) %>
   <%_ if (page.cover) { _%>
-      <meta property="twitter:image" content="<%- page.cover %>" />
-    
+    <meta property="twitter:image" content="<%- page.cover %>" />
+  
   <%_ } _%>
+  <%- open_graph(theme.open_graph) %>
+  
   <style>
     /* 首屏样式 */
     <%- FirstCSS() %>
