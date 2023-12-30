@@ -2,7 +2,6 @@ function init(hexo, config, theme, page) {
   var title = page.seo_title || page.title;
   var keywords = page.keywords || "";
   var description = page.description || "";
-  var cover = page.cover || "https://cdn.jsdelivr.net/gh/OfirApps/files@main/favicon/android-chrome-192x192.png";
   if (hexo.is_archive()) {
     title = hexo.__("navbar.archive");
     if (hexo.is_month()) {
