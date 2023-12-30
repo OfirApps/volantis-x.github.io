@@ -4,7 +4,7 @@ navbar:
   tag: תגיות
 
 post:
-  pin: Top
+  pin: מוצמד
   readmore: קרא עוד
   readoriginal: קרא מקורי
   wordcount: '%s מילים'

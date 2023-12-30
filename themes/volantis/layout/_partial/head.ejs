@@ -60,7 +60,10 @@
     <meta property="og:image" content="<%- page.cover %>" />
   <%_ } _%>
   <%- open_graph(theme.open_graph) %>
-  
+  <%_ if (page.cover) { _%>
+    <meta property="twitter:image" content="<%- page.cover %>" />
+    <meta property="og:image" content="<%- page.cover %>" />
+  <%_ } _%>
   <style>
     /* 首屏样式 */
     <%- FirstCSS() %>
