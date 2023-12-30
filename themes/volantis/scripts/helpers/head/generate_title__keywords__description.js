@@ -69,6 +69,12 @@ hexo.extend.helper.register("generate_title", function (config, theme, page) {
   } else {
     s += `${config.title}</title>`
   }
+  if (cover) {
+    if (cover.includes("http")) {
+      s += `<meta property="og:image" content="${cover}" />`
+    }
+    
+  }
   return s
 });
 
