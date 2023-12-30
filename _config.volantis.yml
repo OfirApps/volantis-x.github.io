@@ -23,7 +23,7 @@ navbar:
 
     - name: אוכל
       icon: fa-duotone fa-fork-knife faa-tada
-      url: https://kolha.top/categories/אוכל/ #food/
+      url: https://kolha.top/categories/מתכונים/ #food/
 
     # - name: Community
     #   icon: fa-duotone fa-fan fa-spin
@@ -84,7 +84,7 @@ cover:
       calt: "בית"
     - name: אוכל
       img: https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f963.svg
-      url: https://kolha.top/categories/אוכל/
+      url: https://kolha.top/categories/מתכונים/
       alt: "קערה עם כפית"
       width: 44px
       target: _self
