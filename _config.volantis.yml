@@ -315,26 +315,26 @@ sidebar:
 
 site_footer:
   layout: [social, copyright]
-  copyright: '[קבוצת כל הטופ - ©2023](https://kolha.top/about)'
+  copyright: '[כל הטופ - ©2023](https://kolha.top/about)'
   social:
     - img: volantis-static/media/org.volantis/icon/1322024-social-media/020-rss.svg
       url: atom.xml
       alt: פיד RSS
-    # - img: volantis-static/media/org.volantis/icon/1322024-social-media/029-github.svg
-    #   url: https://github.com/volantis-x/
-    #   alt: גיטהאב
-    - img: volantis-static/media/org.volantis/icon/1322024-social-media/010-facebook.svg
-      url: /
-      alt: פייסבוק
-    # - img: volantis-static/media/org.volantis/icon/1322024-social-media/018-twitter.svg
+    # # - img: volantis-static/media/org.volantis/icon/1322024-social-media/029-github.svg
+    # #   url: https://github.com/volantis-x/
+    # #   alt: גיטהאב
+    # - img: volantis-static/media/org.volantis/icon/1322024-social-media/010-facebook.svg
     #   url: /
-    #   alt: טוייטר
-    # - img: volantis-static/media/org.volantis/icon/1322024-social-media/045-telegram.svg
+    #   alt: פייסבוק
+    # # - img: volantis-static/media/org.volantis/icon/1322024-social-media/018-twitter.svg
+    # #   url: /
+    # #   alt: טוייטר
+    # # - img: volantis-static/media/org.volantis/icon/1322024-social-media/045-telegram.svg
+    # #   url: /
+    # #   alt: טלגרם
+    # - img: volantis-static/media/org.volantis/icon/1322024-social-media/006-youtube.svg
     #   url: /
-    #   alt: טלגרם
-    - img: volantis-static/media/org.volantis/icon/1322024-social-media/006-youtube.svg
-      url: /
-      alt: יוטיוב
+    #   alt: יוטיוב
   analytics: >
     <span id="lc-sv">The total number of visits to this site is <span id='number'><i class="fa-solid fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span> times</span>
     <span id="lc-uv">The number of visitors is <span id='number'><i class="fa-solid fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span></span>
