@@ -146,7 +146,7 @@ article:
         - id: whatsapp
           img: fa-whatsapp # volantis-static/media/org.volantis/logo/128/whatsapp.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png
         - id: facebook
-          img: fa-facebppl # volantis-static/media/org.volantis/logo/128/facebook.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png
+          img: fa-facebook # volantis-static/media/org.volantis/logo/128/facebook.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png
 
 comments:
   title: <i class='fa-solid fa-comments'></i> תגובות

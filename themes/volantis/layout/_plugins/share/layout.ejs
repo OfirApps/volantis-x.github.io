@@ -19,10 +19,8 @@
           href="http://service.weibo.com/share/share.php?url=<%- post.permalink %>&title=<%- (post.seo_title || post.title) + ' - ' + config.title %><%- (post.thumbnail) ? '&pics=' + (post.thumbnail) : '' %>&summary=<%- strip_html(post.excerpt) %>"
           <% } else if (item.id == 'telegram'){ %>
             href="https://t.me/share/url?url=<%- post.permalink %>&text=<%- (post.seo_title || post.title) + ' - ' + config.title %>"
-          <% } %>
           <% } else if (item.id == 'whatsapp'){ %>
             href="https://api.whatsapp.com/send?text=<%- post.permalink %>"
-          <% } %>
           <% } else if (item.id == 'facebook'){ %>
             href="https://api.whatsapp.com/send?text=<%- post.permalink %>"
           <% } %>
