@@ -56,7 +56,7 @@ cover:
   # height_scheme: full # full, half
   layout_scheme: dock # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
   title: 'כל ה<b>טופ</b>'
-  subtitle: 'טיולים טכנולוגיה ריכולים ועוד!'
+  subtitle: 'טיולים אוכל וכל מה שבטופ!'
   background: 'https://cdn.jsdelivr.net/gh/OfirApps/files@main/back.webp'
   features:
     - name: טיולים
