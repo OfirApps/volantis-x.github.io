@@ -108,7 +108,7 @@ article:
     # show readmore button
     readmore: auto # auto, always
   body:
-    top_meta: [author, category, date, counter]
+    top_meta: [author, category, date, counter,share]
     bottom_meta: [tags] #share updated
     footer_widget:
       references:
