@@ -1,5 +1,5 @@
-.menu .navigation {
-    display: none;
+.cover-wrapper.dock .menu {
+    display: none !important;
 }
 img {
     display: block !important;
