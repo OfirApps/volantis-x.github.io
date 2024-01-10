@@ -186,11 +186,11 @@ hide_posts:
 
 # hexo-generator-amp
 # The following settings is the quick start options.
-post_replace: 
+post_replace:
   before:
     'https://i.ibb.co/': 'https://i.kolha.top/'
-  # after:
-  #   'hexo-post-replace': '<a href="https://github.com/Sukwants/hexo-post-replace">hexo-post-replace</a>'
+  after:
+    'https://i.ibb.co/': 'https://i.kolha.top/'
 
 # hexo-autonofollow
 nofollow:

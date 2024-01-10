@@ -351,8 +351,8 @@ plugins:
   post_replace:
     before:
       'https://i.ibb.co/': 'https://i.kolha.top/'
-  # after:
-  #   'hexo-post-replace': '<a href="https://github.com/Sukwants/hexo-post-replace">hexo-post-replace</a>'
+    after:
+      'https://i.ibb.co/': 'https://i.kolha.top/'
 
 
   generator_amp:
