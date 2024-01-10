@@ -142,6 +142,8 @@ import:
     - '<meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">'
     - '<script src="https://cdn.jsdelivr.net/gh/OfirApps/files@48266cfcffaa773708397c038eb4018de0ffc4b2/ect.js" defer></script>'
     - '<link rel="stylesheet" type="text/css" media="print" href="/print_version.css">'
+    - '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8577850668418356"
+     crossorigin="anonymous" defer></script>'
   head_end:
   body_begin:
   # body_end:
