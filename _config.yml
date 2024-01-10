@@ -184,6 +184,14 @@ hide_posts:
   # The allowlist has higher priority than the blocklist, if both set.
   # blocklist_generators: ['*']
 
+# hexo-generator-amp
+# The following settings is the quick start options.
+post_replace:
+before:
+  'https://i.ibb.co/': 'https://i.kolha.top/'
+  # after:
+  #   'hexo-post-replace': '<a href="https://github.com/Sukwants/hexo-post-replace">hexo-post-replace</a>'
+
 # hexo-autonofollow
 nofollow:
   enable: true
