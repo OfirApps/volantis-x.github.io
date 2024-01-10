@@ -13,18 +13,18 @@ cover: https://i.imgur.com/kKw0mlU.jpg
  באזור בריקל תמצאו את מלון **SLS Brickell** המלון מפואר עם חדרים מרווחים, בריכה מרהיבה על הגג ושירות מעולה. המיקום המרכזי של המלון מקל על ההגעה לעיר מהשדה.
 **אין ארוחות בוקר, לילה שלישי חינם**
 
-![נוף](https://i.ibb.co/b1n1MDX/view-of-sea-in-miami.webp)
+![נוף](https://kolha.top/images/b1n1MDX/view-of-sea-in-miami.webp)
 
 ## תחבורה
  מיאמי מציעה מערכת תחבורה ציבורית מפותחת שתחסוך לכם זמן וכסף. המערכת כוללת אוטובוסים, רכבות ומוניות. ישנן גם אפשרויות להשכרת אופניים או רכבים חשמליים.
 אני ממליצה את **Metromover**- קרוניות עיליות חינמיות ברחבי העיר שנוסעות בכמה מסלולים, אוטובוסים וטרולי. כולם נוחים וזמינים.
 
-![תמונה של לוחית רישוי כקישוט](https://i.ibb.co/vvjdJtG/image-of-a-decorative-plate-kolhatop.webp)
+![תמונה של לוחית רישוי כקישוט](https://kolha.top/images/vvjdJtG/image-of-a-decorative-plate-kolhatop.webp)
 
 ## אטרקציות
 במיאמי תמצאו מקומות רבים לבילוי. ביקרו ב-**Bayside Marketplace, מיאמי ביץ’, ווינווד. בווינווד** תוכלו לטעום ממגוון מאפים מקומיים. בנוסף, תוכלו להתרשם מהגרפיטי המרהיב שמקשט את הרחובות, והנה עוד רשימה של אטרקציות שאספתי אך לא יצא לי לבקר בהם:
 -   **Brickell City Centre Shopping**:
-![Brickell city center shopping](https://i.ibb.co/Vm51gnW/brickell-city-center-shoppi.jpg)
+![Brickell city center shopping](https://kolha.top/images/Vm51gnW/brickell-city-center-shoppi.jpg)
 מתחם קניות חדשני ומרהיב המציע מגוון חנויות, מסעדות וקולנוע
 **⏰ שעות פתיחה:**  
 **יום ראשון - יום חמישי**: 10:00 - 21:30
@@ -33,7 +33,7 @@ cover: https://i.imgur.com/kKw0mlU.jpg
 📞 (305) 350-9922**
     
 -   **Miami Circle National Historic Landmark**:
-![Miami circle](https://i.ibb.co/dg36G8D/miami-circle.png)
+![Miami circle](https://kolha.top/images/dg36G8D/miami-circle.png)
 מקום היסטורי וארכיאולוגי המציג את המקום הקדום ביותר של התיישבות קבועה בחוף המזרחי של ארצות הברית
  **⏰ שעות פתיחה:** 
 **יום ראשון - יום שבת**: 09:00 - 17:00
@@ -41,7 +41,7 @@ cover: https://i.imgur.com/kKw0mlU.jpg
 📞 (305) 375-1492**
     
 -   **Sugar Bars** :
-![Picure of the suger bar is miami beach](https://i.ibb.co/r6LMy7N/sugar-brickell-kolhatop.jpg)
+![Picure of the suger bar is miami beach](https://kolha.top/images/r6LMy7N/sugar-brickell-kolhatop.jpg)
 בר קוקטיילים עם נוף מרהיב של העיר מיאמי (לא כשר)
 **⏰ שעות פתיחה:** 
  **יום ראשון - יום שלישי**: 16:00 - 00:00 
@@ -50,14 +50,14 @@ cover: https://i.imgur.com/kKw0mlU.jpg
  📞 (786) 805-4655**
     
 -   **The Underline**:
-![The underline](https://i.ibb.co/GsBhyfp/the-under-line.png)
+![The underline](https://kolha.top/images/GsBhyfp/the-under-line.png)
 מסלול רכיבה על אופניים ומסלול הליכה ירוק וחדשני המתחיל בסמוך לתחנת המטרו בקצה הדרומי של בריקל ומסתיים בפארק סאות’ פוינט
  **⏰ שעות פתיחה:**  כל הזמן כל יום 
 **📍 25.7508° N, 80.2075° W 
 📧 info@theunderline.org**
     **יש לבדוק איזה חלקים פתוחים כרגע כי הפרויקט עדיין בבנייה**
 -   **Vizcaya Museum and Gardens**
-![Vizcaya Museum and Gardens](https://i.ibb.co/sQvHcrH/vizcaya-museum-and-gardens.png)
+![Vizcaya Museum and Gardens](https://kolha.top/images/sQvHcrH/vizcaya-museum-and-gardens.png)
 מוזיאון וגנים המציגים את התרבות והאמנות של פרוור האמריקאי המפורסם ג’יימס דירינג
 **⏰ שעות פתיחה:**
 **יום שני - יום ראשון**: 09:30 - 16:30 
@@ -70,15 +70,15 @@ cover: https://i.imgur.com/kKw0mlU.jpg
 לא ידוע 
 **📍 1001 Ocean Dr, Miami Beach, FL 33139
 📞 (305) 673-7000**
-![מיאמי ביץ](https://i.ibb.co/ZG2nRdK/picture-of-miami-beach-kolhatop.webp)
+![מיאמי ביץ](https://kolha.top/images/ZG2nRdK/picture-of-miami-beach-kolhatop.webp)
 
 ## אוכל
  מיאמי מציעה מגוון מסעדות, כמו Julia & Henry’s, שמציעה מתחם של שלוש קומות עם מלא דוכנים בסגנונות שונים, די-ג’יי ואוירה מגניבה. תוכלו למצוא מסעדות בסגנונות שונים, מאיטלקי וצרפתי, דרך אסייתי ועד לאמריקאי מסורתי.
-![אולם אוכל יוליה והנרי](https://i.ibb.co/4Y6cgXr/Julia-Henry-Food-Hall-in-Miami-kolhatop.jpg)
+![אולם אוכל יוליה והנרי](https://kolha.top/images/4Y6cgXr/Julia-Henry-Food-Hall-in-Miami-kolhatop.jpg)
 Certainly! Here is the list of kosher restaurants in Miami:
 
 -   **המעדניה הכשרה בבריקל** (Brickell Kosher Deli)
-![תפריט המסעדה](https://i.ibb.co/h2DY7KZ/menu-Brickell-Kosher-Deli.jpg)
+![תפריט המסעדה](https://kolha.top/images/h2DY7KZ/menu-Brickell-Kosher-Deli.jpg)
 מסעדה בסגנון מעדניה עם תפריט רחב של מנות כשרות
 **⏰ שעות פתיחה:** 
 **יום שני - יום חמישי**: 10:00 - 17:00 
@@ -86,7 +86,7 @@ Certainly! Here is the list of kosher restaurants in Miami:
 📧 (305) 853-8582**
     
 -   **Grill House**:
-![Grill house resturants](https://i.ibb.co/t8MFvdD/grill-house-outsides.png)
+![Grill house resturants](https://kolha.top/images/t8MFvdD/grill-house-outsides.png)
 מסעדת בשרים כשרה עם שף מבוסס במיאמי
 **⏰ שעות פתיחה:**
  **יום שני - יום חמישי**: 12:00 - 23:00
@@ -95,7 +95,7 @@ Certainly! Here is the list of kosher restaurants in Miami:
  📧 (305) 674-9005**
     
 -  **הדקל מסעדה ישראלית כשרה (Hadekel - Kosher Israeli Restaurant)**:
-![תמונות של מנות ישראליות במעדת הדקל](https://i.ibb.co/vCWPt8T/the-dekel-food-kolhatop.webp)
+![תמונות של מנות ישראליות במעדת הדקל](https://kolha.top/images/vCWPt8T/the-dekel-food-kolhatop.webp)
 מסעדה ישראלית כשרה עם מנות מהמטבח המזרחי
  **⏰ שעות פתיחה:**
 **יום שני - יום חמישי**: 08:00 - 18:00 
@@ -105,7 +105,7 @@ Certainly! Here is the list of kosher restaurants in Miami:
 📞 (305) 952-3043**
     
 -   **Kosh**:
-![The inside of kosh's resturant](https://i.ibb.co/xYYTdXP/kosh-resturant-insides.png)
+![The inside of kosh's resturant](https://kolha.top/images/xYYTdXP/kosh-resturant-insides.png)
  מסעדה עם מגוון רחב של מנות כשרות
  **⏰ שעות פתיחה:** 
  **יום שני - יום חמישי**: 11:30 - 23:00 
@@ -116,7 +116,7 @@ Certainly! Here is the list of kosher restaurants in Miami:
 ## סיורים
  אחת האטרקציות המיוחדות במיאמי היא הסיורי ביצות בסירת אויר **באברגליידס**, שכוללים הסעות וביקור בשמורת התנינים. זו הזדמנות נהדרת לראות את החייה המקומית מקרוב.
 
-![סיור ביצות](https://i.ibb.co/dGH358c/cave-in-miami-kolhatop.webp)
+![סיור ביצות](https://kolha.top/images/dGH358c/cave-in-miami-kolhatop.webp)
 
 בסה"כ, מיאמי היא עיר מדהימה שמציעה מגוון רחב של פעילויות וחוויות. אנו ממליצים לכל מי שמתכנן לבקר שם. אנחנו בטוחים שגם אתם תאהבו את מיאמי. 
 
