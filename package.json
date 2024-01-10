@@ -31,7 +31,8 @@
     "hexo-renderer-marked": "^5.0.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^3.0.0",
-    "hexo-theme-volantis": "^5.8.0"
+    "hexo-theme-volantis": "^5.8.0",
+    "hexo-post-replace":"file:/extra/hexo-post-replace/"
   },
   "devDependencies": {
     "gulp": "^4.0.2",
