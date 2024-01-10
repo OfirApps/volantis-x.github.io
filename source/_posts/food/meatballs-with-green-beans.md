@@ -47,10 +47,10 @@ cover: https://i.imgur.com/yTAIpTa.jpg
 1. מערבבים את כל מרכיבי הבשר בקערה גדולה עד שהם הופכים לתערובת אחידה.
 2. יוצרים מהתערובת כדורים בגודל שאתם אוהבים.
 3. מטגנים את הכדורים במחבת עם מעט שמן זית עד שהם משתנים צבע לחום-זהוב.
-![כדורי הבשר במהלך טיגונם](https://i.ibb.co/V31LnGG/meatballs-while-getting-cooked.jpg)
+![כדורי הבשר במהלך טיגונם](https://kolha.top/images/V31LnGG/meatballs-while-getting-cooked.jpg)
 4. לאחר שסיימתם לטגן את הכדורים, מוסיפים למחבת את שאר מרכיבי הרוטב.
 5. מבשלים את הרוטב עם הכדורים באש בינונית למשך שעה.
-![כל מרכיבי הרוטב מטבשלים עם הכדורים באש בינונית](https://i.ibb.co/Yt2qzzP/meatballs-cooking-with-all-the-juice.jpg)
+![כל מרכיבי הרוטב מטבשלים עם הכדורים באש בינונית](https://kolha.top/images/Yt2qzzP/meatballs-cooking-with-all-the-juice.jpg)
 
 {% taavon %}
 <small><div property="aggregateRating"  typeof="AggregateRating">  <span  property="ratingValue">4</span> כוכבים -   מבוסס על <span  property="reviewCount">1</span> ביקורות  </div></small>
