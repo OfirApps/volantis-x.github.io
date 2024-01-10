@@ -348,12 +348,6 @@ tag_plugins:
 plugins:
   # hexo-generator-amp
 # The following settings is the quick start options.
-  post_replace:
-    before:
-      'https://i.ibb.co/': 'https://i.kolha.top/'
-    after:
-      'https://i.ibb.co/': 'https://i.kolha.top/'
-
 
   generator_amp:
     templateDir:  amp-template
