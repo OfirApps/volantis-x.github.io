@@ -349,8 +349,8 @@ plugins:
   # hexo-generator-amp
 # The following settings is the quick start options.
   post_replace:
-  before:
-    'https://i.ibb.co/': 'https://i.kolha.top/'
+    before:
+      'https://i.ibb.co/': 'https://i.kolha.top/'
   # after:
   #   'hexo-post-replace': '<a href="https://github.com/Sukwants/hexo-post-replace">hexo-post-replace</a>'
 
