@@ -4,7 +4,7 @@ description: אני יודעת עד כמה כולם רוצים לטוס,  ולכ
 date: 2023-12-16 12:00:00
 tags: [טיפים, חרבות ברזל]
 categories: [טיולים]
-cover: https://i.imgur.com/ppT2gvt.jpg
+cover: https://kolha.top/images/covers/ppT2gvt.jpg
 pin: true
 ---
 

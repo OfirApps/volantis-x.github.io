@@ -4,7 +4,7 @@ description: טיול מהמם בדרך האבות וטילת יוחאי ג'וח
 date: 2024-01-18 14:00:00
 tags: [ישראל,טבע,תצפית, טיולים,אוסף אטרקציות,יהודה ושומרון,מסעדות,טיולים קלילים]
 categories: [טיולים, ישראל]
-cover: https://i.imgur.com/wTNPDzx.jpg
+cover: https://kolha.top/images/covers/wTNPDzx.jpg
 ---
 📍 דרך האבות נווה דניאל - בוויז
 💷 ללא תשלום

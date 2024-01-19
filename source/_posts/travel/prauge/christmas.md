@@ -4,14 +4,14 @@ description: חודש דצמבר המוכר גם כחודש הכריסמס הו�
 date: 2023-12-20 12:00:00
 tags: [פראג, טיולים, כריסמס,אוסף אטרקציות,מסעדות]
 categories: [טיולים, פראג]
-cover: https://i.imgur.com/uk9uV5M.jpg
+cover: https://kolha.top/images/covers/uk9uV5M.jpg
 ---
 
 פראג, העיר הזוהרת של צ'כיה, היא יעד מושלם לקריסמס (חג המולד). במהלך הקריסמס, העיר מתמלאה באורות חגיגיים, שווקים מסורתיים, ואווירה חגיגית. הנה מדריך לכל הדברים השווים שיש בקריסמס
 
 ## אטרקציות לחג המולד
  -  **שוקי החג המולד**:
-![שווקי חג המולג 2023](https://i.imgur.com/ho74yFK.jpg)
+![שווקי חג המולג 2023](https://kolha.top/images/covers/ho74yFK.jpg)
  פראג מארחת את כמה מהשווקים הכי יפים באירופה. השווקים מתמלאים בדוכנים שמוכרים מאכלים מסורתיים, משקאות חמים, ומוצרי יד מקומיים. ניתן למצוא שווקים ברחבי העיר, כולל בכיכר העיר העתיקה, כיכר ואצלב, כיכר הרפובליקה, ועוד. לעוד מידע על השווקים הכנתי לכם רשימה של [שווקי חג המולד בפראג 2023](https://kolha.top/travel/prauge/chirstmas-markets)
  - **גן החיות בפראג** (Prague Zoo):
 	 ![Czech Wikipedia user Packa, CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/1/1e/Big_mammals_pavilion2%2C_Zoo_Prague.jpg)
