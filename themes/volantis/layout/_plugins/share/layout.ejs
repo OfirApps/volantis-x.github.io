@@ -22,13 +22,13 @@
           <% } else if (item.id == 'whatsapp'){ %>
             href="https://api.whatsapp.com/send?text=<%- post.permalink %>"
           <% } else if (item.id == 'facebook'){ %>
-            href="https://api.whatsapp.com/send?text=<%- post.permalink %>"
+            href="https://www.facebook.com/sharer/sharer.php?u=<%- post.permalink %>"
           <% } %>
           >
           <% if (item.img){ %>
             <img src="<%- item.img %>">
           <% } else if (item.icon){ %>
-            <i class="<%- item.icon %> fa-fw"></i>
+            <i class="fa-brands <%- item.icon %>"></i>
           <% } %>
         </a>
       <% } %>
