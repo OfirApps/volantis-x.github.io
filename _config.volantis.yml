@@ -142,11 +142,11 @@ article:
         unit: 'צפיות'
       share:
         - id: telegram
-          img: fa-telegram # volantis-static/media/org.volantis/logo/128/telegram.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png
+          icon: fa-telegram # volantis-static/media/org.volantis/logo/128/telegram.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png
         - id: whatsapp
-          img: fa-whatsapp # volantis-static/media/org.volantis/logo/128/whatsapp.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png
+          icon: fa-whatsapp # volantis-static/media/org.volantis/logo/128/whatsapp.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png
         - id: facebook
-          img: fa-facebook # volantis-static/media/org.volantis/logo/128/facebook.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png
+          icon: fa-facebook # volantis-static/media/org.volantis/logo/128/facebook.png #  https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/logo/128/telegram.png
 
 comments:
   title: <i class='fa-solid fa-comments'></i> תגובות
