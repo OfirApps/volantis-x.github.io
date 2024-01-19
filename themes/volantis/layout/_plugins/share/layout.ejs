@@ -1,6 +1,13 @@
 <div class="new-meta-item share -mob-share-list">
   <div class="-mob-share-list share-body">
     <% getList(theme.article.body.meta_library.share).forEach(function(item){ %>
+      <style>
+        @media (max-width: 500px) { 
+          .oficon {
+            font-size: 2rem !important;
+          }
+         }
+      </style>
       <% if (item.id == 'qrcode'){ %>
         <% var src = qrcode(url,{margin:1,size:8}); %>
         <div class='hoverbox'>
@@ -28,7 +35,7 @@
           <% if (item.img){ %>
             <img src="<%- item.img %>">
           <% } else if (item.icon){ %>
-            <i class="fa-brands <%- item.icon %>" style="font-size: 1rem !important; @media (max-width: 500px) { font-size: 2rem !important; }"></i>
+            <i class="fa-brands <%- item.icon %>" style="font-size: 1rem !important;" class="oficon"></i>
           <% } %>
         </a>
       <% } %>
