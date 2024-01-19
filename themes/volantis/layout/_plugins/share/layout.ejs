@@ -1,6 +1,9 @@
 <div class="new-meta-item share -mob-share-list">
   <div class="-mob-share-list share-body">
     <style>
+      .oficon {
+        font-size: 1rem !important;
+      }
       @media (max-width: 500px) { 
         .oficon {
           font-size: 2rem !important;
@@ -35,7 +38,7 @@
           <% if (item.img){ %>
             <img src="<%- item.img %>">
           <% } else if (item.icon){ %>
-            <i class="fa-brands <%- item.icon %> oficon" style="font-size: 1rem !important;" ></i>
+            <i class="fa-brands <%- item.icon %> oficon" ></i>
           <% } %>
         </a>
       <% } %>
