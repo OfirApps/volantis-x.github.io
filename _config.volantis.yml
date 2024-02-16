@@ -429,11 +429,11 @@ plugins:
     enable: false
   contributorsjs:
     enable: false
-  # preload:
-  #   enable: true
-  #   service: flying_pages # instant_page, flying_pages
+  preload:
+    enable: true
+    service: flying_pages # instant_page, flying_pages
   #   instant_page: volantis-static/libs/instant_page/instant_page.js # https://cdn.jsdelivr.net/gh/volantis-x/cdn-volantis@2/js/instant_page.js
-  #   flying_pages: volantis-static/libs/flying-pages/flying-pages.min.js # https://cdn.jsdelivr.net/gh/gijo-varghese/flying-pages@2.1.2/flying-pages.min.js
+    flying_pages: https://cdnjs.cloudflare.com/ajax/libs/flying-pages/2.1.2/flying-pages.min.js # https://cdn.jsdelivr.net/gh/gijo-varghese/flying-pages@2.1.2/flying-pages.min.js
 
   pjax:
     enable: true

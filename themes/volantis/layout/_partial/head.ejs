@@ -42,7 +42,10 @@
     <link rel="shortcut icon" type='image/x-icon' href="<%- url_for(config.favicon) %>">
   <%_ } _%>
   <link rel="preload" href="<%- theme.cdn.map.css.style %>" as="style">
-  <%- generate_preload_fontfamily(theme) %>
+  <!-- <%- generate_preload_fontfamily(theme) %> -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&family=Varela+Round&display=swap" rel="stylesheet">
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PPGTN677WG" defer></script>
   <script>
