@@ -397,7 +397,8 @@ plugins:
     enable: true
   clipboard:
     enable: true
-  fontawesome: volantis-static/libs/@fortawesome/fontawesome-pro/css/all.min.css
+  # fontawesome: volantis-static/libs/@fortawesome/fontawesome-pro/css/all.min.css
+  fontawesome: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
   code_highlight: prismjs # highlightjs or prismjs
   parallax:
     enable: false
